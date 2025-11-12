@@ -46,4 +46,9 @@ iii. Shift Operators -
     iii. Monitor: Observes ALU inputs and outputs.
     
     iv.  Scoreboard: Calculates the expected result for each operation and compares it with the DUT output.
+
+# **3) Simulation & Results**
+- Run simulation using QuestaSim.
+- Check waveforms and scoreboard messages.
+- Ensure all comparisons PASS (expected = actual).
     
