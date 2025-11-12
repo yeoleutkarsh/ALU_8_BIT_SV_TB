@@ -1,5 +1,5 @@
 # Title : 8 - Bit ALU ( Arithmetic Logic Unit ) Design & Verification using System Verilog.
-# **1) Introduction**
+# **1) Introduction:**
 - The Arithmetic Logic Unit (ALU) is an important part of digital systems that performs math and logic operations.  
 - This project involves the **design and verification** of an **8-bit combinational ALU** using **SystemVerilog (SV)** ant it performs **arithmetic**, **logical**, and **shift** operations such as **addition**, **subtraction**, **multiplication**, and **division**.
 - It takes two 8-bit inputs (`a`, `b`), a 4-bit control signal (`sel`) to choose the operation, and an enable signal (`en`).  
@@ -36,7 +36,7 @@ iii. Shift Operators -
 | **Shift Left (SHL)**  | Shifts bits of a left by one  | `a << 1`   |
 | **Shift Right (SHR)** | Shifts bits of a right by one | `b >> 1`   |
 
-# **2) Verification Plan**
+# **2) Verification Plan:**
   - The 8-bit ALU was verified using a SystemVerilog testbench designed in a UVM-like structure to ensure correct functionality across all operations.
   - Verification Components:
     
@@ -48,12 +48,12 @@ iii. Shift Operators -
     
     iv.  Scoreboard: Calculates the expected result for each operation and compares it with the DUT output.
 
-# **3) Simulation & Results**
+# **3) Simulation & Results:**
 - Run simulation using QuestaSim.
 - Check waveforms and scoreboard messages.
 - Ensure all comparisons PASS (expected = actual).
 
-# Questsim Result:
+# **4) Questsim Result:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ab80f6b-1a93-460a-ae0f-3b003b197a75" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce92eac2-c825-466a-aa19-9b5af70f85d6" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68d11b6c-48d9-4092-802c-8d854028fa4f" />
