@@ -1,8 +1,7 @@
 # Title : 8 - Bit ALU ( Arithmetic Logic Unit ) Design & Verification using System Verilog.
 # **1) Introduction**
 - The Arithmetic Logic Unit (ALU) is an important part of digital systems that performs math and logic operations.  
-- This project involves the **design and verification** of an **8-bit combinational ALU** using **SystemVerilog (SV)**.  
-The ALU performs **arithmetic**, **logical**, and **shift** operations such as **addition**, **subtraction**, **multiplication**, and **division**.
+- This project involves the **design and verification** of an **8-bit combinational ALU** using **SystemVerilog (SV)** ant it performs **arithmetic**, **logical**, and **shift** operations such as **addition**, **subtraction**, **multiplication**, and **division**.
 - It takes two 8-bit inputs (`a`, `b`), a 4-bit control signal (`sel`) to choose the operation, and an enable signal (`en`).  
 - The result is a 16-bit output (`out`).
 - The ALU design is a com
