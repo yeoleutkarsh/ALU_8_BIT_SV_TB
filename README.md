@@ -38,7 +38,12 @@ iii. Shift Operators -
 # **4) Verification Plan (Short Version)**
   - The 8-bit ALU was verified using a SystemVerilog testbench designed in a UVM-like structure to ensure correct functionality across all operations.
   - Verification Components:
+    
     i.   Generator: Creates random and directed test inputs (a, b, sel, en).
+    
     ii.  Driver: Applies these inputs to the ALU DUT (Design Under Test).
+    
     iii. Monitor: Observes ALU inputs and outputs.
+    
     iv.  Scoreboard: Calculates the expected result for each operation and compares it with the DUT output.
+    
