@@ -52,4 +52,11 @@ iii. Shift Operators -
 - Run simulation using QuestaSim.
 - Check waveforms and scoreboard messages.
 - Ensure all comparisons PASS (expected = actual).
+
+# Questsim Result:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ab80f6b-1a93-460a-ae0f-3b003b197a75" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce92eac2-c825-466a-aa19-9b5af70f85d6" />
+
+
+
     
