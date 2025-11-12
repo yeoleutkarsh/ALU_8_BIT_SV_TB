@@ -35,7 +35,7 @@ iii. Shift Operators -
 | **Shift Left (SHL)**  | Shifts bits of a left by one  | `a << 1`   |
 | **Shift Right (SHR)** | Shifts bits of a right by one | `b >> 1`   |
 
-# **4) Verification Plan**
+# **2) Verification Plan**
   - The 8-bit ALU was verified using a SystemVerilog testbench designed in a UVM-like structure to ensure correct functionality across all operations.
   - Verification Components:
     
