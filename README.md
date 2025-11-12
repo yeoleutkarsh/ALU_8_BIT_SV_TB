@@ -4,7 +4,7 @@
 - This project involves the **design and verification** of an **8-bit combinational ALU** using **SystemVerilog (SV)** ant it performs **arithmetic**, **logical**, and **shift** operations such as **addition**, **subtraction**, **multiplication**, and **division**.
 - It takes two 8-bit inputs (`a`, `b`), a 4-bit control signal (`sel`) to choose the operation, and an enable signal (`en`).  
 - The result is a 16-bit output (`out`).
-- The ALU design is a com
+- The output of the operation is produced **only when the enable signal (`en`) is high**.
 
 **Operation Performed By ALU**
 
