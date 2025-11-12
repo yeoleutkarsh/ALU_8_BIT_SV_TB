@@ -23,9 +23,9 @@ ii. Logical Operators -
 | Operation              | Description              | Expression |    
 | ---------------------- | ------------------------ | ---------- | 
 | **AND**                | Bitwise AND of a and b   | `a & b`    |   
-| **OR**                 | Bitwise OR of a and b    | `a | b`    |
+| **OR**                 | Bitwise OR of a and b    | `a or b`   |
 | **NAND**               | Bitwise NOT of (a AND b) | `~(a & b)` | 
-| **NOR**                | Bitwise NOT of (a OR b)  | `~(a | b)` |
+| **NOR**                | Bitwise NOT of (a OR b)  | `~(a or b)`|
 | **XOR**                | Bitwise Exclusive OR     | `a ^ b`    |
 | **XNOR**               | Bitwise Exclusive NOR    | `a ~^ b`   | 
 | **NOT / Invert (INV)** | Bitwise inversion of a   | `~a`       | 
