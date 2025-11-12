@@ -1,1 +1,2 @@
-# ALU_8_BIT_SV_TB
+Title : 8 - Bit ALU ( Arithmetic Logic Unit ) Verification using Sytem Verilog.
+
