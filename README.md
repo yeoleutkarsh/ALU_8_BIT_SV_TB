@@ -56,6 +56,9 @@ iii. Shift Operators -
 # Questsim Result:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ab80f6b-1a93-460a-ae0f-3b003b197a75" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce92eac2-c825-466a-aa19-9b5af70f85d6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68d11b6c-48d9-4092-802c-8d854028fa4f" />
+
+
 
 
 
