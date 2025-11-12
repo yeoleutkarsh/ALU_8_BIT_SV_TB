@@ -50,7 +50,7 @@ iii. Shift Operators -
 
 # **3) Simulation & Results:**
 - Run simulation using QuestaSim.
-- Check waveforms and scoreboard messages.
+- Since the ALU is a **combinational circuit** with **no clock**, the verification was done by checking the **Scoreboard messages** in the terminal.
 - Ensure all comparisons PASS (expected = actual).
 
 # **4) Questsim Result:**
